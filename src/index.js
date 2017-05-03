@@ -1,14 +1,20 @@
 /*
  * @Author: @u3u
  * @Date: 2017-05-03 23:05:18
- * @Last Modified by:   @u3u
- * @Last Modified time: 2017-05-03 23:05:18
+ * @Last Modified by: @u3u
+ * @Last Modified time: 2017-05-03 23:21:59
  */
 
 console.img = function (url = 'https://q4.qlogo.cn/g?b=qq&nk=485463145&s=140') {
   /* global Image */
   if (!window.hasOwnProperty('Image')) {
     console.warn('您的浏览器不支持 Image 对象')
+    return
+  }
+
+  // 校验 URL 是否正确
+  if (!/^http(s)?:\/\/([\w-]+\.)+[\w-]+(\/[\w- ./?%&=]*)?$/.test(url)) {
+    console.warn('URL 格式不正确')
     return
   }
 

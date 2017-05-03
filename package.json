@@ -2,7 +2,7 @@
   "name": "console.img",
   "version": "1.0.0",
   "description": "在 Webkit 内核浏览器开发人员工具控制台面板输出图片",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "webpack -p --progress",
     "lint": "standard --fix",

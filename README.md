@@ -20,7 +20,7 @@ $ npm i -S console.img
 
 ## 使用CDN
 
-由饿了么提供：[//github.elemecdn.com/u3u/console.img/master/dist/console.img.min.js](//github.elemecdn.com/u3u/console.img/master/dist/console.img.min.js)
+由饿了么提供：[//npm.elemecdn.com/console.img@版本号/dist/console.img.min.js](//npm.elemecdn.com/console.img@1.0.5/dist/console.img.min.js)
 
 ```javascript
 var script = document.createElement('script')

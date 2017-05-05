@@ -1,10 +1,16 @@
-## console.img
-
+## console.img 
 在 Webkit 内核浏览器开发人员工具控制台面板输出图片
+
+[![NPM Version](https://img.shields.io/npm/v/console.img.svg)](https://www.npmjs.com/package/console.img)
+[![LICENSE](https://img.shields.io/npm/l/console.img.svg)](https://www.npmjs.com/package/console.img)
+[![NPM Download](https://img.shields.io/npm/dw/console.img.svg)](https://www.npmjs.com/package/console.img)
+[![Travis](https://img.shields.io/travis/u3u/console.img.svg)](https://travis-ci.org/u3u/console.img)
+[![GitHub issues](https://img.shields.io/github/issues/u3u/console.img.svg)](https://github.com/u3u/console.img/issues)
+[![Github All Releases](https://img.shields.io/github/downloads/u3u/console.img/total.svg)](https://github.com/u3u/console.img)
 
 ## 预览
 
-![Markdown](http://i1.piimg.com/549484/15d25b70e7deb19f.gif)
+![Preview](http://i1.piimg.com/549484/15d25b70e7deb19f.gif)
 
 ## 安装
 

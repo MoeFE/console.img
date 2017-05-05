@@ -2,7 +2,7 @@
  * @Author: @u3u
  * @Date: 2017-05-03 23:05:18
  * @Last Modified by: @u3u
- * @Last Modified time: 2017-05-03 23:43:47
+ * @Last Modified time: 2017-05-05 13:46:06
  */
 
 console.img = function (url = 'https://q4.qlogo.cn/g?b=qq&nk=485463145&s=140') {
@@ -27,3 +27,5 @@ console.img = function (url = 'https://q4.qlogo.cn/g?b=qq&nk=485463145&s=140') {
   }
   img.src = url
 }
+
+console.img.toString = () => 'function img () { [native code] }'

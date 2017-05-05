@@ -1,0 +1,6 @@
+.vscode
+.babelrc
+.editorconfig
+.travis.yml
+node_modules
+webpack.config.js

@@ -1,6 +1,6 @@
 {
   "name": "console.img",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "在 Webkit 内核浏览器开发人员工具控制台面板输出图片",
   "main": "dist/console.img.min.js",
   "scripts": {

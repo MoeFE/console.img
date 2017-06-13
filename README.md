@@ -10,7 +10,7 @@
 
 ## 预览
 
-![Preview](http://i1.piimg.com/549484/15d25b70e7deb19f.gif)
+![Preview](http://i4.piimg.com/549484/aee8b482307da627.gif)
 
 ## 安装
 
@@ -39,10 +39,10 @@ import 'console.img'
 console.img()
 
 // 输出指定 URL 图片
-console.img('http://ww2.sinaimg.cn/bmiddle/86885b06gy1fev92c193nj20qo1benpd.jpg')
+console.img('http://i4.piimg.com/549484/aee8b482307da627.gif')
 
 // 输出指定 URL 图片并指定图片宽度
-console.img('http://tvax3.sinaimg.cn/crop.0.0.640.640.180/006r446Hly8ff6s4145i0j30hs0hsjs8.jpg', 100)
+console.img('https://avatars3.githubusercontent.com/u/20062482', 100)
 
 // 输出指定 URL 图片并指定图片宽度和高度
 console.img('http://imgsrc.baidu.com/forum/w%3D580/sign=4b27d3554890f60304b09c4f0913b370/e42eb6003af33a8728f55f7ec45c10385243b5d5.jpg', 400, 200)

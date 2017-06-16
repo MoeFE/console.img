@@ -25,7 +25,7 @@ $ npm i -S console.img
 ```javascript
 var script = document.createElement('script')
 script.src = '//npm.elemecdn.com/console.img@1.0.6/dist/console.img.min.js'
-script.onload = () => console.img('http://ww2.sinaimg.cn/bmiddle/86885b06gy1fev92c193nj20qo1benpd.jpg')
+script.onload = () => console.img('http://image.diyidan.net/post/2015/11/8/kreGswFTYGFVgWjF.gif')
 document.body.appendChild(script)
 ```
 
@@ -39,7 +39,7 @@ import 'console.img'
 console.img()
 
 // 输出指定 URL 图片
-console.img('http://i4.piimg.com/549484/aee8b482307da627.gif')
+console.img('http://image.diyidan.net/post/2015/11/8/kreGswFTYGFVgWjF.gif')
 
 // 输出指定 URL 图片并指定图片宽度
 console.img('https://avatars3.githubusercontent.com/u/20062482', 100)
